@@ -1,0 +1,16 @@
+{
+  "name": "telegram-vcf-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk mengkonversi file TXT ke VCF",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "fs": "0.0.1-security",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
